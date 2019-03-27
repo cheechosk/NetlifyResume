@@ -4,6 +4,10 @@
   
   <url>
     <loc>http://localhost:1313/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/</loc>
     <priority>0</priority>
   </url>
   
