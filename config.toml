@@ -1,4 +1,4 @@
-baseurl = "https://hernandezluis.com/resume"
+baseurl = "http://hernandezluis.com"
 title = "Winning"
 theme = "winning"
 #themesdir = "../.."
