@@ -1,13 +1,16 @@
-baseurl = "https://example.com"
+baseurl = "https://hernandezluis.com/resume"
 title = "Winning"
 theme = "winning"
 #themesdir = "../.."
 
 disableKinds = ["RSS"]
 defaultContentLanguage = "en"
-#enableRobotsTXT = true
+enableRobotsTXT = true
 languageCode = "en-us"
 [taxonomies]
+
+[params]
+header_background = "img/caltech.png"
 
 [author]
     name = "your-name"
