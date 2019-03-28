@@ -4,4 +4,4 @@ title: CV
 
 ## Luis Hernandez Site
 
-[resume](/resume)
+[resume (in Progress)](/resume)
