@@ -1,6 +1,7 @@
 ---
-title: CV2
+title: "About me"
+
 ---
 
-## Luis Hernandez Site
+Luis Hernandez Site
 

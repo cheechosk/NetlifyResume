@@ -1,5 +1,6 @@
 ---
-title: CV
+title: "CV"
+
 ---
 
 ![](/img/luis-reduced.jpg)  
