@@ -10,7 +10,7 @@ languageCode = "en-us"
 [taxonomies]
 
 [params]
-header_background = "img/caltech.png"
+#header_background = "img/caltech.png"
 
 [author]
     name = "your-name"

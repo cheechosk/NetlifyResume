@@ -1,8 +1,6 @@
 ---
-title: CV
+title: CV2
 ---
 
 ## Luis Hernandez Site
 
-[resume (in Progress)](/resume)
-[resume (in Progress)](/resume/appsToProductsTek)
