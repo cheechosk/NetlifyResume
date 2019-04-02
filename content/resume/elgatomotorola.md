@@ -20,6 +20,17 @@ In a few weeks I learned a new language (Java) and left for Motorola in Schaumbu
 ### Result:
 The Sprint PCS $10M order booked and Motorola's endorsement for the new Agilent E7495A resulted in a stream of sales from operators adopting the Motorola LMF base station.
 
+<!--
 ![El Gato](/img/ElGato.png)
 
 ![LMF](/img/MotoLMFElGato.png)
+-->
+
+<img src="/img/ElGato.png" alt="El Gato"
+	title="Agilent El Gato"  width="500" align="middle" />
+
+
+<img src="/img/motolmf.png" alt="Motorola LMF"
+	title="Motorola LMF" align="middle" width="700"  />
+
+[Back to resume](/resume) 
