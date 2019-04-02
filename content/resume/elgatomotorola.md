@@ -26,11 +26,11 @@ The Sprint PCS $10M order booked and Motorola's endorsement for the new Agilent 
 ![LMF](/img/MotoLMFElGato.png)
 -->
 
-<img src="/img/ElGato.png" alt="El Gato"
-	title="Agilent El Gato"  width="500" align="middle" />
+<center> <img src="/img/ElGato.png" alt="El Gato"
+	title="Agilent El Gato"  width="500" /> </center>
 
 
-<img src="/img/motolmf.png" alt="Motorola LMF"
-	title="Motorola LMF" align="middle" width="700"  />
+<center><img src="/img/motolmf.png" alt="Motorola LMF"
+	title="Motorola LMF" width="700"  /></center>
 
 [Back to resume](/resume) 
