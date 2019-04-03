@@ -13,7 +13,7 @@ date: 2019-03-27T19:54:07-07:00
 <p><br/></p>
   
 ### Background:
-Northrop Grumman needed to measure very low level spurs (-135dBm and below) over a wide frequency range. The approach they had been using took weeks to complete the test and with low resolution. They were looking for an alternative to reduce the test time.  <br><br>
+Northrop Grumman needed to measure very low level spurs (-135dBm and below) over a wide frequency range. The approach they had been using took weeks to complete and with undesirable resolution. They were looking for an alternative to reduce the test time.  <br><br>
 
 ### Actions:
 I developed an application that ran in a Tektronix Real Time Spectrum Analyzer that segmented the frequency range of insterest into sections that allowed for very low resolution BW settings to produced the desired noise level. The test outcome was a file containing a spectrun trace per section. Each file had to be looked into for spurs. There were 20,000 files! 
