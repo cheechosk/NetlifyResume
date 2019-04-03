@@ -5,7 +5,7 @@ date: 2019-03-27T19:54:07-07:00
 ---
 [back](/resume)
 ## ***Achievement:***<br>
-### ***Developed spur search tool that reduced test time from weeks to minutes*** 
+### ***Developed spur search tool that reduced test time from weeks to minutes for major aerospace defense company*** 
 <p><br/></p>
 
 ### ***Role/Job: Tektronix Applications Engineer***
