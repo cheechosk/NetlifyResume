@@ -3,7 +3,7 @@ title: "Text"
 date: 2019-03-27T19:54:07-07:00
 
 ---
-
+[back](/resume)
 ## ***Achievement: Developed integration for automated test between Motorola cellular base  station and test instrumet*** 
 <p><br/></p>
 
@@ -11,7 +11,7 @@ date: 2019-03-27T19:54:07-07:00
 ### ***When: 2003***
 <p><br/></p>
   
-### Situation:
+### Background:
 Agilent needed its new cellular base station tester to be integrated with the newly released Motorola LMF cellular base station. Having this would result in an endorsement by Motorola that would require operators adopting the Motorola base station to use (and purchase) Agilent's new device, the E7495A "EL GATO". A $10M order from Sprint PCS was on hold as the integration was a requirement.<p><br/></p>
 
 ### Actions:

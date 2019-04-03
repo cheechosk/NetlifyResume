@@ -4,6 +4,7 @@ date: 2019-03-27T19:54:07-07:00
 
 ---
 
+[back](/resume)
 ## ***Achievement: Developed RADAR Generation Software for High Performance AWGs*** 
 <p><br/></p>
 
@@ -11,7 +12,7 @@ date: 2019-03-27T19:54:07-07:00
 ### ***When: 2007***
 <p><br/></p>
   
-### Situation:
+### Background:
 Raytheon SAS in El Segundo requested a companion software for Tektronix' high performance AWGs to generate RADAR waveforms that could be loaded and generated in the AWG. My employer Teltronix, despite having the highest performance AWG at the time lacked software tools to produce meaninful signals to be loaded and generated. I took on the task to write such software application per Raytheon's engineers guidelines  <p><br/></p>
   
 ### Actions:

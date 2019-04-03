@@ -4,6 +4,8 @@ date: 2019-03-27T19:54:07-07:00
 
 ---
 
+
+
 ### Confidence Check
  
  Somme test instruments have built in "Confidence Checks" that allow to verify for example that a calibraiton is correct. This looks to incover large variations from specs usually caused by bad cables, dirty or worn connectors, operator error, etc. An example of this is an ECal Confidence Check where parameters are measured on the ECal and compared to what it is stored in the unit's EPROM stored at the factory.<br>

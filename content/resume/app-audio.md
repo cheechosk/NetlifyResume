@@ -3,6 +3,7 @@ title: "Text"
 date: 2019-03-27T19:54:07-07:00
 ---
 
+[back](/resume)
 ## ***Achievement: Created audio measurement application for large sales opportunity that became a standard option on Tektronix Real Time Spectrum Analyzer*** 
 <p><br/></p>
 
@@ -10,7 +11,7 @@ date: 2019-03-27T19:54:07-07:00
 ### ***When: 2006***
 <p><br/></p>
   
-### Situation:
+### Background:
 A military contractor in the east coast needed a soulution to test SINCGARS radios after Agilent (previously HP, currentlly Keysight) discontinued the industry standard Audio Analyzers 8901/8902/8903. Rohde-Schwarz, Agilent and Tektrnix competed for the business.<p><br/></p>
   
 ### Actions:
