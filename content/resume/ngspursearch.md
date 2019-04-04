@@ -18,9 +18,11 @@ Northrop Grumman needed to measure very low level spurs (-135dBm and below) over
 ### Actions:
 I developed an application that ran in a Tektronix Real Time Spectrum Analyzer that segmented the frequency range of insterest into sections that allowed for very low resolution BW settings to produced the desired noise level. The test outcome was a file containing a spectrun trace per section. Each file had to be looked into for spurs. There were 20,000 files! 
 
-The application ran the test and then scanned the files to log the spurs over a user defined threshold in a table.
+The application ran the test and then scanned the files to log the spurs found over a user defined threshold in a table.
 
-The test time was 5 minutes<br><br>
+The test time was reduced to 5 minutes.
+
+Although the enabler of the time reduction was the architecture of the Real Time Spectrum Analyzer, I found the sweet spot for the span and resolution badwidth cobination that minimized the test time and the application facilitated the sweep, logging and post-processing if the captured data.<br><br>
 
 ### Result:
 The goal was met. The program though was delayed for a very long time...
