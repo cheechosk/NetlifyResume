@@ -22,7 +22,7 @@ The application ran the test and then scanned the files to log the spurs found o
 
 The test time was reduced to 5 minutes.
 
-Although the enabler of the time reduction was the architecture of the Real Time Spectrum Analyzer, I found the sweet spot for the span and resolution badwidth cobination that minimized the test time and the application facilitated the sweep, logging and post-processing if the captured data.<br><br>
+Although the enabler of the time reduction was the architecture of the Real Time Spectrum Analyzer, I found the sweet spot for the span and resolution badwidth combination that minimized the test time and the application facilitated the sweep, logging and post-processing if the captured data.<br><br>
 
 ### Result:
 The goal was met. The program though was delayed for a very long time...
