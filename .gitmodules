@@ -1,6 +1,6 @@
 [submodule "themes/winning"]
 	path = themes/winning
-	url = https://github.com/cssandstuff/hugo-theme-winning.git
+	url = https://github.com/cheechosk/hugo-theme-winning.git
 [submodule "themes/basics"]
 	path = themes/basics
 	url = https://github.com/arjunkrishnababu96/basics.git
