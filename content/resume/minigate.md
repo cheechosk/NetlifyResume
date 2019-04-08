@@ -20,7 +20,8 @@ In conjunction with Motorola engineers in Libertyville, Illinois, I wrote the in
 ### Result:
 The Agilent E6393B and E6392B were deemed compatible with the Motorola GATE and were cleared to be purchased by service centers for phone diagnostics and repair.
 
-
+<br>
+##### ***Below is the brochure showing the models that were integrated into the Motorola GATE***
 
 <iframe src="/img/5988-7144EN.pdf" width="100%" height="900px">
 
